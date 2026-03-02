@@ -22,11 +22,11 @@
 
 ## 1.1. Contextualização da Empresa Parceira
 
-*Descreva a empresa parceira do projeto, o segmento de atuação, e o problema ou desafio que o projeto vai enfrentar.*
+_Descreva a empresa parceira do projeto, o segmento de atuação, e o problema ou desafio que o projeto vai enfrentar._
 
 ## 1.2. Objetivos do Projeto
 
-*Explique o objetivo principal do projeto, e os objetivos específicos que devem ser alcançados ao longo das quatro sprints.*
+_Explique o objetivo principal do projeto, e os objetivos específicos que devem ser alcançados ao longo das quatro sprints._
 
 <br>
 
@@ -34,25 +34,26 @@
 
 ## 2.1. Tecnologias, Linguagens e Recursos Selecionados
 
-*Liste as tecnologias, linguagens de programação, recursos de nuvem, simuladores de hardware ou APIs que serão utilizadas. Justifique a escolha de cada tecnologia.*
+_Liste as tecnologias, linguagens de programação, recursos de nuvem, simuladores de hardware ou APIs que serão utilizadas. Justifique a escolha de cada tecnologia._
 
 ## 2.2. Cronograma Inicial do Projeto
 
-*Apresente um cronograma ou roadmap dividido pelas quatro sprints, indicando os entregáveis previstos.*
+_Apresente um cronograma ou roadmap dividido pelas quatro sprints, indicando os entregáveis previstos._
 
 ## 2.3. Análise de Riscos
 
-*Descreva possíveis riscos do projeto, sua probabilidade e impacto, e as estratégias de mitigação.*
+_Descreva possíveis riscos do projeto, sua probabilidade e impacto, e as estratégias de mitigação._
 
 ## 2.4. User Stories e Critérios de Validação
 
-*Liste as User Stories iniciais que guiarão o projeto, com Critérios de Aceitação para a Sprint Review da empresa parceira.*
+_Liste as User Stories iniciais que guiarão o projeto, com Critérios de Aceitação para a Sprint Review da empresa parceira._
 
-*Exemplo de User Story*
+_Exemplo de User Story_
 
 > Como [usuário], desejo [funcionalidade] para [benefício].
 
-*Exemplo de Critérios de Validação*
+_Exemplo de Critérios de Validação_
+
 - [ ] O sistema deve permitir que...
 - [ ] O usuário deve visualizar...
 
@@ -62,19 +63,19 @@
 
 ## 3.1. Busca de Dados
 
-*Descreva de onde os dados serão obtidos (bases públicas, APIs, dados da empresa parceira, simulações).* 
+_Descreva de onde os dados serão obtidos (bases públicas, APIs, dados da empresa parceira, simulações)._
 
 ## 3.2. Tratamento e Qualidade dos Dados
 
-*Descreva as etapas de limpeza, normalização, tratamento de valores ausentes e análise de qualidade dos dados.*
+_Descreva as etapas de limpeza, normalização, tratamento de valores ausentes e análise de qualidade dos dados._
 
 ## 3.3. Análises Iniciais (Data Science)
 
-*Utilizando R ou linguagem, apresente explorações iniciais, como estatísticas descritivas, correlações, análises gráficas preliminares.*
+_Utilizando R ou linguagem, apresente explorações iniciais, como estatísticas descritivas, correlações, análises gráficas preliminares._
 
 ## 3.4. Modelagem de Banco de Dados
 
-*Apresente o modelo de dados (diagrama ER ou similar), justificando escolhas de estrutura e tecnologias de armazenamento.*
+_Apresente o modelo de dados (diagrama ER ou similar), justificando escolhas de estrutura e tecnologias de armazenamento._
 
 <br>
 
@@ -82,15 +83,15 @@
 
 ## 4.1. Implementação Prática do MVP
 
-*Descreva as implementações realizadas para atender os Critérios de Validação das User Stories definidas na Sprint 1.*
+_Descreva as implementações realizadas para atender os Critérios de Validação das User Stories definidas na Sprint 1._
 
 ## 4.2. Integração de Componentes
 
-*Explique como as diferentes partes do sistema se conectam (front-end, back-end, banco de dados, API, sensores etc.).*
+_Explique como as diferentes partes do sistema se conectam (front-end, back-end, banco de dados, API, sensores etc.)._
 
 ## 4.3. Validação com a Empresa Parceira
 
-*Documente o feedback obtido na Sprint Review com a empresa parceira.*
+_Documente o feedback obtido na Sprint Review com a empresa parceira._
 
 <br>
 
@@ -98,20 +99,20 @@
 
 ## 5.1. Refinamento da MVP
 
-*Descreva os ajustes finais e melhorias feitas com base no feedback recebido.*
+_Descreva os ajustes finais e melhorias feitas com base no feedback recebido._
 
 ## 5.2. Apresentação do Protótipo
 
-*Inclua prints, diagramas, fluxogramas ou protótipos da solução final.*
+_Inclua prints, diagramas, fluxogramas ou protótipos da solução final._
 
 <br>
 
 # <a name="c6"></a>6. Referências
 
-*Inclua todas as referências utilizadas no projeto: livros, artigos, links de sites, documentações de tecnologias etc.*
+_Inclua todas as referências utilizadas no projeto: livros, artigos, links de sites, documentações de tecnologias etc._
 
 <br>
 
 # <a name="c7"></a>7. Anexos
 
-*Inclua aqui materiais complementares, como screenshots, códigos relevantes, diagramas adicionais, templates de APIs, testes de dados, etc.*
+_Inclua aqui materiais complementares, como screenshots, códigos relevantes, diagramas adicionais, templates de APIs, testes de dados, etc._
