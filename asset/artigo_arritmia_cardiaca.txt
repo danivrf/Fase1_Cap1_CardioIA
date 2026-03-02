@@ -1,0 +1,21 @@
+# Análise sobre a Arritmia Cardíaca na Literatura e Suas Implicações Clínicas
+
+**Autor:** Aluno(a) da Disciplina de Inteligência Artificial e Saúde (CardioIA) 
+**Data:** Março de 2026
+
+## Introdução
+Este documento acadêmico versa sobre as arritmias cardíacas (com enfoque nos batimentos anormais – *Abnormal Heartbeats*), estruturado a partir da correlação entre a sintomatologia clínica reportada e a herança literária da virada do século XX no diagnóstico de doenças cardiovasculares em faixas etárias intermediárias e avançadas. 
+
+A saúde cardiovascular sempre figurou como área de intenso interesse científico. Especificamente, o ensaio de J. Mitchell Bruce em seu conjunto "The Lettsomian Lectures (1900-1901) sobre *Heart Disease in Middle and Advanced Age*" introduz debates acerca do desgaste do miocárdio sob estresse (Bruce, 1900). Ao tratar as origens do batimento desregulado, Bruce detalha o impacto de toxinas como o tabaco sobre terminações nervosas. Este ensaio serve como balizador metodológico para investigar o panorama das arritmias modernas.
+
+## Fisiopatologia e a Correlação Literária
+No escopo de leturas clássicas sobre os estímulos das anomalias rítmicas, o conceito de "Coração de Tabaco" (*Tobacco Heart*) é profundamente ilustrativo. Bruce (1900, LECTURE II) destaca que a intoxicação afeta precocemente a modulação vagal. Em seus achados clínicos focados nas respostas de pacientes fisicamente jovens e saudáveis à exposição crônica à nicotina, o sintoma primordial era invariavelmente "a palpitação em cada instância e um senso de ação irregular". Na contemporaneidade, extrapolamos as respostas adrenérgicas analisadas antigamente para as bases moleculares da arritmia, especificamente as fibrilações atriais e extrassístoles. 
+
+Diferente do infarto do miocárdio onde a musculatura efetivamente morre por isquemia, a arritmia tem caráter elétrico. As notas de Bruce relativas ao fato de que nesses quadros de ação desbalanceada "nenhum paciente apresentou um sopro cardíaco que fosse além de um fraco ruído sistólico mitral variante", evidenciam, de maneira quase atemporal, que as válvulas orgânicas encontram-se estruturalmente saudáveis, embora funcionalmente instáveis devido ao distúrbio do marcapasso sinusal ou por excitabilidade anômala das vias. "Isto está em conssonância com os ensinamentos farmacológicos de que o tabaco atua nos ramos terminais do nervo vago" (Bruce, 1900). 
+
+## Conclusões
+Ao mapear a bibliografia histórica para treinar algoritmos preditivos na atualidade, percebe-se que extrair entidades (*NER*) dessas descrições de palpitações e síncopes enriquece as árvores de decisão das máquinas no auxílio diagnóstico. Trata-se não só da métrica fria de uma taquicardia registrada em um ECG moderno acoplado à Internet das Coisas (IoT), mas da compreensão holística dos fatores etiológicos externos que afetam intrinsecamente os ramos do sistema nervoso parassimpático cardíaco.
+
+## Referências
+- BRUCE, J. Mitchell. *Heart Disease in Middle and Advanced Age* (The Lettsomian Lectures 1900-1901). Transcrito do Project Gutenberg. Disponível em: https://www.gutenberg.org/files/43780/43780-h/43780-h.htm.
+- TYSON, James. *The Practice of Medicine*. Philadelphia: P. Blakiston's Son & Co., [Data aproximada original]. Disponível em: https://archive.org/stream/practiceofmedici00tyso/practiceofmedici00tyso_djvu.txt

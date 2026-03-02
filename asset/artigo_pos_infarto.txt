@@ -1,0 +1,21 @@
+# Sobrevivência e Histórico de Infarto do Miocárdio: O Pós-Infarto na Prática Clínica
+
+**Autor:** Aluno(a) da Disciplina de Inteligência Artificial e Saúde (CardioIA) 
+**Data:** Março de 2026
+
+## Introdução
+Para indivíduos categorizados com histórico de infarto agudo do miocárdio (Pasta *post_mi_history_ecg_images*), o cenário morfológico das artérias coronarianas já denota alterações permanentes causadas pela fibrose isquêmica e pela resposta inflamatória anterior. Diferente da ação imediata demandada na emergência oclusiva, o pós-infarto instaura um paradigma crônico preventivo.
+
+A reabilitação e o contínuo tensionamento miocárdico foram exaustivamente descritos por J. Mitchell Bruce em suas obras magistrais compiladas pelo Project Gutenberg. Em sua leitura crítica sobre idosos com cardiopatias, Bruce aborda como a "reduzida resistência cardiovascular" (BRUCE, 1900) e as lesões valvulares estruturais alteram não as pressões focais imediatas, mas impulsionam os pacientes à debilidade contínua sob qualquer esforço menor.
+
+## Revascularização e Cuidados Extensivos (Reabilitação)
+Nos casos estabilizados, o foco da Governança Médica — em concordância com a inteligência artificial desenvolvida no CardioIA — altera-se do *Trigger Alert* emergencial (como as Redes Neurais detectando Supradesnível do ST) e transiciona para a *Manutenção de Métricas Resilientes* (Predição de falência orgânica). 
+
+Os textos clássicos como o de James Tyson (The Practice of Medicine) validam essa perspectiva histórica. Pacientes que subsistem a um "attack of the heart" carregam cicatrizes aponeuróticas e remodelamento ventricular, em que o "Coração em sua tentativa de reagir à alteração de fluxo sanguíneo e capilares desativados pelo tecido fibroso, hipertrofia e compensa como pode" (BRUCE, 1900; TYSON). Essa compensação anatômica exige do paciente idoso o emprego de fármacos restritores como os betabloqueadores, de forma perene; não mais focados unicamente na regulação arrítmica como em disfunções do trato (nodo) sinusal e vagal, mas para diminuir objetivamente o consumo de oxigênio da musculatura lesionada. O controle da glicemia em níveis subdiabéticos garante, por sua vez, a integridade da barreira endotelial dos vasos remanescentes patentes para irrigação suplementar.
+
+## Conclusões
+O paciente pós-imediato infartado apresenta uma assinatura eletrocardiográfica basal distinta, onde zonas de inatividade elétrica (ondas Q patológicas preexistentes na derivação atingida) persistem por gerações nos registros IoT da medicina de precisão. Compreender este limiar é base teórica fundamental na formação do cientista de dados, pois previne classificações de alarme falso ("Falsos Positivos") de acidentes isquêmicos novos, ao passo que a sensibilidade é recalibrada para observar o avanço das debilidades ventriculares, com algoritmos prevendo quando e como as complicações da remodelação farão a bomba orgânica cessar suas reações de compensação hipertrófica.
+
+## Referências
+- BRUCE, J. Mitchell. *Heart Disease in Middle and Advanced Age* (The Lettsomian Lectures 1900-1901). Transcrito do Project Gutenberg. Disponível em: https://www.gutenberg.org/files/43780/43780-h/43780-h.htm.
+- TYSON, James. *The Practice of Medicine*. Philadelphia: P. Blakiston's Son & Co., [S.d.]. Disponível em: https://archive.org/stream/practiceofmedici00tyso/practiceofmedici00tyso_djvu.txt
