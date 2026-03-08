@@ -8,7 +8,7 @@
 
 # Nome do projeto
 
-CardioIa - Exploração de Dados cardiacos
+CardioAI - Exploração de Dados cardiacos
 
 ## Nome do grupo
 
