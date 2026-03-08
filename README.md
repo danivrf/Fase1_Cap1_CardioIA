@@ -1,7 +1,7 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+<a href= "https://www.fiap.com.br/"><img src="asset/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 <br>
@@ -12,59 +12,27 @@
 
 ## 👨‍🎓 Integrantes:
 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Felipe Livino dos Santos (RM 563187)</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Daniel Veiga Rodrigues de Faria (RM 561410)</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Tomas Haru Sakugawa Becker (RM 564147)</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Daniel Tavares de Lima Freitas (RM 562625)</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Konno Carrozza (RM 564468)</a>
 
 ## 👩‍🏫 Professores:
 
 ### Tutor(a)
 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Caique Nonato da Silva Bezerra</a>
 
 ### Coordenador(a)
 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
 ## 📜 Descrição
 
-_Descreva seu projeto com base no texto do PBL (até 600 palavras)_
-
-## 📁 Estrutura de pastas
-
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
-
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
-
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
-
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
-
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
-## 🔧 Como executar o código
-
-_Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase._
-
-## 🗃 Histórico de lançamentos
-
-- ## 0.5.0 - XX/XX/2024
-- ## 0.4.0 - XX/XX/2024
-- ## 0.3.0 - XX/XX/2024
-- ## 0.2.0 - XX/XX/2024
-- ## 0.1.0 - XX/XX/2024
-
-## 📋 Licença
-
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
 # CardioIA: Fase 1 - Batimentos de Dados 🫀🤖
 
-Bem-vindo ao repositório da **Fase 1 do projeto CardioIA**. Este projeto representa a etapa fundamental na construção de uma plataforma digital avançada idealizada para revolucionar o ecossistema de uma cardiologia moderna através da Inteligência Artificial.
-
-Nesta fase — focada inteiramente na engenharia de dados, curadoria e **Governança de Dados** —, nós assumimos o papel de Cientistas de Dados Hospitalares. O nosso objetivo central foi catalogar, preparar e justificar a importância clínica de três fontes heterogêneas de dados estruturados e não-estruturados: Sinais Vitais Numéricos (IoT), Literatura Médica (NLP) e Exames de Imagem (Visão Computacional). Esses insumos abastecerão os motores de inferência diagnóstica nas próximas etapas do curso.
+Nest fase — focada inteiramente na engenharia de dados, curadoria e **Governança de Dados** —, nós assumimos o papel de Cientistas de Dados Hospitalares. O objetivo central foi catalogar, preparar e justificar a importância clínica de três fontes heterogêneas de dados estruturados e não-estruturados: Sinais Vitais Numéricos (IoT), Literatura Médica (NLP) e Exames de Imagem (Visão Computacional). Esses insumos abastecerão os motores de inferência diagnóstica nas próximas etapas.
 
 ---
 
@@ -72,21 +40,27 @@ Nesta fase — focada inteiramente na engenharia de dados, curadoria e **Governa
 
 ```text
 /
-├── asset/                          # Diretório contendo os ativos não estruturados
-│   ├── abnormal_heartbeat_ecg_images/ # Imagens de ECG (Arritmia)
-│   ├── myocardial_infarction_ecg_images/ # Imagens de ECG (Infarto)
-│   ├── normal_ecg_images/             # Imagens de ECG (Normais)
-│   ├── post_mi_history_ecg_images/    # Imagens de ECG (Pós-Infarto)
-│   ├── artigo_arritmia_cardiaca.txt   # Texto Científico: Arritmia
-│   ├── artigo_infarto_miocardio.txt   # Texto Científico: Infarto do Miocárdio
-│   ├── artigo_pos_infarto.txt         # Texto Científico: Pós-Infarto
-│   └── artigo_coracao_normal.txt      # Texto Científico: Coração Normal
-├── doencas_cardiacas.csv           # Base Numérica unificada gerada a partir das imagens
-├── generate_cardiac_csv.py         # Script Python gerador dos dados simulados e rotulação
-└── README.md                       # Documentação principal e governança do projeto
+├── asset/                                  # Diretório contendo os ativos não estruturados
+│   ├── abnormal_heartbeat_ecg_images/      # Imagens de ECG (Arritmia) (fazer download Google Drive)
+│   ├── myocardial_infarction_ecg_images/   # Imagens de ECG (Infarto) (fazer download Google Drive)
+│   ├── normal_ecg_images/                  # Imagens de ECG (Normais) (fazer download Google Drive)
+│   ├── post_mi_history_ecg_images/         # Imagens de ECG (Pós-Infarto) (fazer download Google Drive)
+│   ├── artigo_arritmia_cardiaca.txt        # Texto Científico: Arritmia
+│   ├── artigo_infarto_miocardio.txt        # Texto Científico: Infarto do Miocárdio
+│   ├── artigo_pos_infarto.txt              # Texto Científico: Pós-Infarto
+│   └── artigo_coracao_normal.txt           # Texto Científico: Coração Normal
+├── doencas_cardiacas.csv                   # Base Numérica unificada gerada a partir das imagens
+├── exploracao_dados.ipynb                  # Notebook de exploração de dados
+├── generate_cardiac_csv.py                 # Script Python gerador dos dados simulados e rotulação
+└── README.md                               # Documentação principal e governança do projeto
 ```
 
 > **Atenção:** Os repositórios de imagens puros originais são extensos (mais de 900 arquivos). Para fins desta entrega avaliativa, _você precisará acessar o link público ao fim deste documento_ para visualizar o volume completo consolidado em nuvem.
+
+O repositório com os dados de ECG, foram extraidos de https://www.kaggle.com/datasets/evilspirit05/ecg-analysis?select=ecg_data_new_version
+
+O repositório consolidado em nuvem pode ser acessado pelo link:
+https://drive.google.com/drive/folders/1K2ljBezD008VaQa56zjJIHgxNI_4Tzn-?usp=sharing
 
 ---
 
@@ -96,9 +70,9 @@ Nesta fase — focada inteiramente na engenharia de dados, curadoria e **Governa
 
 A base de dados tabulares estruturada, localizada em `doencas_cardiacas.csv`, foi **simulada computacionalmente** com alto rigor clínico utilizando o script `generate_cardiac_csv.py` (desenvolvido exclusivamente para esta fase).
 
-A abordagem de simulação sintética de dados foi essencial para cumprir com as rígidas políticas de **Governança de Dados e Privacidade (LGPD/HIPAA)**, evitando a exposição de PHI (_Protected Health Information_) real, ao mesmo tempo que criamos uma distribuição estatística coerente de parâmetros vitais fiel à realidade dos quadros patológicos atrelados aos exames de Eletrocardiograma (ECG) correspondentes (as imagens).
+A abordagem de simulação sintética de dados foi essencial para cumprir com as rígidas políticas de **Governança de Dados e Privacidade (LGPD/HIPAA)**, evitando a exposição de dados reais, ao mesmo tempo que criamos uma distribuição estatística coerente de parâmetros vitais fiel à realidade dos quadros patológicos atrelados aos exames de Eletrocardiograma (ECG) correspondentes (as imagens).
 
-Possuímos **928 instâncias** sintéticas geradas, muito acima do mínimo exigido de 100 linhas, categorizadas em quatro anomalias cardíacas.
+Possuímos **928 imagens** de ECG que foram extraidas de https://www.kaggle.com/datasets/evilspirit05/ecg-analysis?select=ecg_data_new_version,categorizadas em quatro anomalias cardíacas: Arritmia Cardíaca, Infarto do Miocárdio, Coração Normal e Pós-Infarto.
 
 ### Variáveis e Relevância Clínica (Feature Engineering Context)
 
@@ -131,7 +105,9 @@ A ingestão destes textos densos e técnicos pela máquina não é rudimentar. N
 
 ## 👁️ Parte 3: Dados Visuais (Visão Computacional)
 
-Na subpasta `asset/` (ou no link contido abaixo), agrupamos **928 exames visíveis de ECG** com morfologia real particionados em pastas (`normal`, `abnormal_heartbeat`, `myocardial_infarction`, `post_mi_history`). Estes arquivos foram mapeados de forma tabular pelo script.
+Agrupamos **928 exames visíveis de ECG** com morfologia real particionados em pastas (`normal`, `abnormal_heartbeat`, `myocardial_infarction`, `post_mi_history`). Estes arquivos foram mapeados de forma tabular pelo script.
+
+Link do Google Drive: https://drive.google.com/drive/folders/1K2ljBezD008VaQa56zjJIHgxNI_4Tzn-?usp=sharing
 
 ### Aplicação da IA no Auxílio Diagnóstico
 
@@ -146,8 +122,27 @@ Esses rastreios não estruturados representam o ápice do valor agregado pelo Ca
 
 Abaixo estão os links para o diretório virtual na nuvem contendo **o dataset CSV preenchido e as mais de 900+ imagens de exames**, garantindo as práticas de versionamento unificado do projeto para correção.
 
-- **📂 [INSIRA O SEU LINK PUBLICO DO ONEDRIVE/GDRIVE AQUI]**
+- **📂 Link do google drive**
+  https://drive.google.com/drive/folders/1K2ljBezD008VaQa56zjJIHgxNI_4Tzn-?usp=sharing
 
 > **Importante para o avaliador:** Caso enfrente lentidão no download do pacote completo via link acima na nuvem devido ao volume das pastas de imagem, todos os elementos estruturais textuais e tubulares (.csv) estão localmente registrados nas pastas deste exato repositório GitHub para inspeção imediata.
 
 ---
+
+## 🔧 Como executar o código
+
+Para replicar a criação do arquivo CSV deve-se - Fazer o download dos arquivos do Google Drive e adicionar a pasta asset do projeto. - Executar o script generate_cardiac_csv.py - O arquivo CSV será gerado na pasta do projeto.
+
+Para executar o notebook de exploração de dados deve-se - Fazer o download dos arquivos do Google Drive e adicionar a pasta asset do projeto. - Executar o notebook cardioia_exploracao_dados.ipynb - O notebook será executado na pasta do projeto.
+
+## 🗃 Histórico de lançamentos
+
+- ## 0.5.0 - XX/XX/2024
+- ## 0.4.0 - XX/XX/2024
+- ## 0.3.0 - XX/XX/2024
+- ## 0.2.0 - XX/XX/2024
+- ## 0.1.0 - XX/XX/2024
+
+## 📋 Licença
+
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
