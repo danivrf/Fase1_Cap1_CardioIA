@@ -12,17 +12,17 @@
 
 ## 👨‍🎓 Integrantes:
 
-- <a href="https://www.linkedin.com/company/inova-fusca">Felipe Livino dos Santos (RM 563187)</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Daniel Veiga Rodrigues de Faria (RM 561410)</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Tomas Haru Sakugawa Becker (RM 564147)</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Daniel Tavares de Lima Freitas (RM 562625)</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Konno Carrozza (RM 564468)</a>
+- <a href="#">Felipe Livino dos Santos (RM 563187)</a>
+- <a href="#">Daniel Veiga Rodrigues de Faria (RM 561410)</a>
+- <a href="#">Tomas Haru Sakugawa Becker (RM 564147)</a>
+- <a href="#">Daniel Tavares de Lima Freitas (RM 562625)</a>
+- <a href="#">Gabriel Konno Carrozza (RM 564468)</a>
 
 ## 👩‍🏫 Professores:
 
 ### Tutor(a)
 
-- <a href="https://www.linkedin.com/company/inova-fusca">Caique Nonato da Silva Bezerra</a>
+- <a href="#">Caique Nonato da Silva Bezerra</a>
 
 ### Coordenador(a)
 
