@@ -8,7 +8,11 @@
 
 # Nome do projeto
 
+CardioIa - Exploração de Dados cardiacos
+
 ## Nome do grupo
+
+Rumo ao NEXT
 
 ## 👨‍🎓 Integrantes:
 
