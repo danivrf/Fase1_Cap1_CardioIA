@@ -131,17 +131,22 @@ Abaixo estão os links para o diretório virtual na nuvem contendo **o dataset C
 
 ## 🔧 Como executar o código
 
-Para replicar a criação do arquivo CSV deve-se - Fazer o download dos arquivos do Google Drive e adicionar a pasta asset do projeto. - Executar o script generate_cardiac_csv.py - O arquivo CSV será gerado na pasta do projeto.
+Para replicar a criação do arquivo CSV deve-se
 
-Para executar o notebook de exploração de dados deve-se - Fazer o download dos arquivos do Google Drive e adicionar a pasta asset do projeto. - Executar o notebook cardioia_exploracao_dados.ipynb - O notebook será executado na pasta do projeto.
+- Fazer o download dos arquivos do Google Drive e adicionar a pasta asset do projeto.
+- Executar o script generate_cardiac_csv.py
+- O arquivo CSV será gerado na pasta do projeto.
+
+Para executar o notebook de exploração de dados deve-se
+
+- Fazer o download dos arquivos do Google Drive e adicionar a pasta asset do projeto.
+- Executar o notebook cardioia_exploracao_dados.ipynb
+- O notebook será executado na pasta do projeto.
 
 ## 🗃 Histórico de lançamentos
 
-- ## 0.5.0 - XX/XX/2024
-- ## 0.4.0 - XX/XX/2024
-- ## 0.3.0 - XX/XX/2024
-- ## 0.2.0 - XX/XX/2024
-- ## 0.1.0 - XX/XX/2024
+- ## 0.2.0 - 08/03/2026 - Desenvolvimento dos algoritmos e notebook
+- ## 0.1.0 - 07/03/2026 - Pesquisa e desenvolvimento do artivo
 
 ## 📋 Licença
 
