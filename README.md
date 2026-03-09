@@ -150,7 +150,7 @@ Para executar o notebook de exploração de dados deve-se
 ## 🗃 Histórico de lançamentos
 
 - ## 0.2.0 - 08/03/2026 - Desenvolvimento dos algoritmos e notebook
-- ## 0.1.0 - 07/03/2026 - Pesquisa e desenvolvimento do artivo
+- ## 0.1.0 - 07/03/2026 - Pesquisa e desenvolvimento do artigo
 
 ## 📋 Licença
 
